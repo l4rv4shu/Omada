@@ -1,0 +1,6 @@
+﻿<!-- Parameters used by tests at run time -->
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="baseUrl" value="https://omadaidentity.com/"/>
+	</TestRunParameters>
+</RunSettings>
