@@ -67,6 +67,8 @@ namespace Omada.Careers
 
         public void DisplayOmadians(String omada_empoyee)
         {
+            //this part of app seems to have a little bug: Omadian's details should not be scrollable.
+            //Thats why reference screenshots are odd.
             var careers = new CareersPage(driver);
             careers.Load();
             //define selector for each testcase
